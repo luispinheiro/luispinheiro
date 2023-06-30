@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 Como criar ou editar o perfil LEIAME:
 <br/>
-[https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github](https://docs.github.com/pt/get-started/quickstart/hello-world)https://docs.github.com/pt/get-started/quickstart/hello-world
+(https://docs.github.com/pt/get-started/quickstart/hello-world)https://docs.github.com/pt/get-started/quickstart/hello-world
