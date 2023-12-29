@@ -33,7 +33,5 @@ Here are some ideas to get you started:
 </div>
 Como criar ou editar o perfil LEIAME:
 <br/>
-[https://docs.github.com/pt/get-started/quickstart/hello-world](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-<br/>
 [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
