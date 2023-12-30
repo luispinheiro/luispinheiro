@@ -36,5 +36,5 @@ Emojis no windows: tecla windows + ponto final ou https://emojidb.org/bag-emojis
 <br/>
 Como criar ou editar o perfil LEIAME:
 <br/>
-[tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+ [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
