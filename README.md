@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+Emojis no windows: tecla windows + ponto final ou https://emojidb.org/bag-emojis
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -27,10 +27,12 @@ Here are some ideas to get you started:
   
   ##
  
-<div> 
-  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-]([https://www.youtube.com/channel/UCxoLMPzu5P2pQi_H1VcWXuQ)Q]([https://www.youtube.com/channel/UCxoLMPzu5P2pQi_H1VcWXuQ](https://www.youtube.com/channel/UCxoLMPzu5P2pQi_H1VcWXuQ))" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+<div>
+    <a href="https://github.com/luispinheiro">
+    <img height="180em" src="https://github-readme-stats.vencel.app/api?username=luispinheiro&show_icons=true&theme=dark&include_all_commits=true&cont_private=false"/>
+</div> 
   
-</div>
+<br/>
 Como criar ou editar o perfil LEIAME:
 <br/>
 [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
