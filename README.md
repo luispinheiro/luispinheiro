@@ -25,11 +25,4 @@ Emojis no windows: tecla windows + ponto final ou https://emojidb.org/bag-emojis
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
- 
-<div>
-    <a href="https://github.com/luispinheiro">
-    <img height="180em" src="https://github-readme-stats.vencel.app/api?username=luispinheiro&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/>
-</div>
 
